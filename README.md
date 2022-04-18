@@ -1,1 +1,1 @@
-# chidaksh.github.io
+# github page for AAIG portal
